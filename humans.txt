@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Eli Kinnard		Ekinnard4@git.training	@Ekinnard4
 
 # THANKS
 
